@@ -1,0 +1,66 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+*.egg
+*.manifest
+*.spec
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Pytest & coverage
+.pytest_cache/
+.cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# Robot Framework
+results/
+output.xml
+report.html
+log.html
+*.db
+*.tsv
+*.txt
+
+# Locust
+*.csv
+*.stats
+*.log
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# IDEs & editors
+.vscode/
+.idea/
+*.iml
+
+# System
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.*
+env_vars.py
+
+# Docs / reports
+*.pdf
+*.md~
+*.bak
+*.swp
+*.tmp
+
+# Build / dist
+build/
+dist/
+*.egg-info/
