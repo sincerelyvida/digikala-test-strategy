@@ -54,8 +54,6 @@ Thumbs.db
 env_vars.py
 
 # Docs / reports
-*.pdf
-*.md~
 *.bak
 *.swp
 *.tmp
